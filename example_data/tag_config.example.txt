@@ -1,0 +1,8 @@
+# Example tag config for cutadapt-related scripts
+# Format A (recommended):
+TAG_SEQ=CCTGAACCTGAACCTGAACCTGAACCTGAACCTGAACCT
+TAG_RC=AGGTTCAGGTTCAGGTTCAGGTTCAGGTTCAGGTTCAGG
+
+# Format B (also supported):
+# line1: TAG_SEQ
+# line2: TAG_RC
